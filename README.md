@@ -7,9 +7,14 @@ transcripts with newly annotated 5' and 3'UTRs appended. New transcripts have sp
 with them in any capacity. For example, the transcript ILL.yoaE-BSU18570.14~2056:
    
     1. Was generated with Illumina Data
-    2. Contains the protein 'yoaE'
-    3. The protein is identified as BSU18570
+    2. Contains the protein 'yoaE', identified as BSU18570
+    3. The protein is 
     4. The protein resides in bases 14~2056, anything before is 5'UTR, anything after is 3'UTR
+
+
+
+⋅⋅* Was generated with Illumina Data
+
 
 ### Usage
 
